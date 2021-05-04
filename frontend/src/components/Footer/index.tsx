@@ -1,7 +1,9 @@
-import ImgDsDark from 'assets/img/ds_dark.svg';
+
 
 function Footer() {
+
     return (
+      
         <footer className="footer mt-auto py-3 bg-dark">
   <div className="container">
     <p className="text-light">App desenvolvido por <a href="https://github.com/claudio-germano" target="_blank" rel="noreferrer">Claudio W. Germano Jr.</a></p>

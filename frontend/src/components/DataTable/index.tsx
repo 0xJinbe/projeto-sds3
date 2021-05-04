@@ -1,4 +1,3 @@
-import ImgDsDark from 'assets/img/ds_dark.svg';
 
 function DataTable() {
     return (
